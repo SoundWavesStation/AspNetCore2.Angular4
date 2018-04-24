@@ -1,0 +1,11 @@
+C:\Users\Kyamc\AspNetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\bin\Debug\netcoreapp2.0\DutchTreat.Web.deps.json
+C:\Users\Kyamc\AspNetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\bin\Debug\netcoreapp2.0\DutchTreat.Web.runtimeconfig.json
+C:\Users\Kyamc\AspNetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\bin\Debug\netcoreapp2.0\DutchTreat.Web.runtimeconfig.dev.json
+C:\Users\Kyamc\AspNetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\bin\Debug\netcoreapp2.0\DutchTreat.Web.dll
+C:\Users\Kyamc\AspNetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\bin\Debug\netcoreapp2.0\DutchTreat.Web.pdb
+C:\Users\Kyamc\AspNetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.csprojResolveAssemblyReference.cache
+C:\Users\Kyamc\AspNetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.csproj.CoreCompileInputs.cache
+C:\Users\Kyamc\AspNetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.AssemblyInfoInputs.cache
+C:\Users\Kyamc\AspNetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.AssemblyInfo.cs
+C:\Users\Kyamc\AspNetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.dll
+C:\Users\Kyamc\AspNetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.pdb
