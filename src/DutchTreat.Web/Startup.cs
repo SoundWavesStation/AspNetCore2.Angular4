@@ -16,10 +16,9 @@ namespace DutchTreat.Web
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
-            app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync("<html><body><h1>Hello PluralSight!</h1></body></html>");
-            });
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
+
         }
     }
 }
