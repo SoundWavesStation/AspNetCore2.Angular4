@@ -14,7 +14,6 @@ D:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\bin\Debug\netcoreapp2.0\D
 D:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\bin\Debug\netcoreapp2.0\DutchTreat.Web.runtimeconfig.dev.json
 D:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\bin\Debug\netcoreapp2.0\DutchTreat.Web.dll
 D:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\bin\Debug\netcoreapp2.0\DutchTreat.Web.pdb
-D:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.csprojResolveAssemblyReference.cache
 D:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.csproj.CoreCompileInputs.cache
 D:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.AssemblyInfoInputs.cache
 D:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.AssemblyInfo.cs
