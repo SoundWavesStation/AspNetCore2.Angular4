@@ -12537,23 +12537,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\i7\\.nuget\\packages\\": {},
+    "C:\\Users\\Kyamc\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NetProjects\\AspNetCore2.Angular4\\src\\DutchTreat.Web\\DutchTreat.Web.csproj",
+      "projectUniqueName": "E:\\NetProjects\\AspNetCore2.Angular4\\src\\DutchTreat.Web\\DutchTreat.Web.csproj",
       "projectName": "DutchTreat.Web",
-      "projectPath": "D:\\NetProjects\\AspNetCore2.Angular4\\src\\DutchTreat.Web\\DutchTreat.Web.csproj",
-      "packagesPath": "C:\\Users\\i7\\.nuget\\packages\\",
-      "outputPath": "D:\\NetProjects\\AspNetCore2.Angular4\\src\\DutchTreat.Web\\obj\\",
+      "projectPath": "E:\\NetProjects\\AspNetCore2.Angular4\\src\\DutchTreat.Web\\DutchTreat.Web.csproj",
+      "packagesPath": "C:\\Users\\Kyamc\\.nuget\\packages\\",
+      "outputPath": "E:\\NetProjects\\AspNetCore2.Angular4\\src\\DutchTreat.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\i7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kyamc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
