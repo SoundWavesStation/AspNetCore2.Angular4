@@ -19,3 +19,14 @@ D:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\D
 D:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.AssemblyInfo.cs
 D:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.dll
 D:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.pdb
+E:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\bin\Debug\netcoreapp2.0\DutchTreat.Web.deps.json
+E:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\bin\Debug\netcoreapp2.0\DutchTreat.Web.runtimeconfig.json
+E:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\bin\Debug\netcoreapp2.0\DutchTreat.Web.runtimeconfig.dev.json
+E:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\bin\Debug\netcoreapp2.0\DutchTreat.Web.dll
+E:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\bin\Debug\netcoreapp2.0\DutchTreat.Web.pdb
+E:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.csprojAssemblyReference.cache
+E:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.csproj.CoreCompileInputs.cache
+E:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.AssemblyInfoInputs.cache
+E:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.AssemblyInfo.cs
+E:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.dll
+E:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.pdb
