@@ -30,3 +30,4 @@ E:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\D
 E:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.AssemblyInfo.cs
 E:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.dll
 E:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.pdb
+D:\NetProjects\AspNetCore2.Angular4\src\DutchTreat.Web\obj\Debug\netcoreapp2.0\DutchTreat.Web.csprojResolveAssemblyReference.cache
