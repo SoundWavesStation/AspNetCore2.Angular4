@@ -3,13 +3,17 @@ var s = "";
 
 console.log("Hello World! Console Log!");
 
-var theForm = document.getElementById("theForm");
-theForm.hidden = true;
 
-var button = document.getElementById("buyButton");
-button.addEventListener("click", function() {
+
+var theForm = $("#theForm");
+theForm.hide();
+
+var button = $("#buyButton");
+button.on("click", function () {
     console.log("Buying Item");
 });
 
-var productInfo = document.getElementsByClassName("product-props");
-var listItems = productInfo.item[0].children;
+var productInfo = $(".product-props li");
+productInfo.on("click", function () {
+    console.log("You Clicked on" + $(this).text());
+});
